@@ -2,7 +2,9 @@
 It is a variational autoencoder which considers time-lags.
 
 Dataset:
-  https://www.deepsig.io/datasets/
+  
+    https://www.deepsig.io/datasets/
 
-Based on the following project
-  https://github.com/msmbuilder/vde
+Based on the following project:
+
+    https://github.com/msmbuilder/vde
