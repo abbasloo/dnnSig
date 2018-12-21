@@ -1,8 +1,8 @@
-# dnnComm: unsupervised deep learning for communication signals with different modulations and SNR's
+# dnnComm: unsupervised deep learning for wirless communication signals with different modulations and SNR's
 
 Detail:
 
-- I/Q phase space is embeded to a new dimention by an autoencoder which considers time-lags for signal trajectories in phase space (Markov modeling).
+- I/Q trajectory space is embeded to a new dimention by an autoencoder which considers time-lags for signal evolution in trajectory space (Markov modeling).
 - An experiment using embeded data and SVM has been done to see the AUC curve and if the new dimention introduces strong discriminative feature.
     
 Dataset:
