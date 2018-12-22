@@ -1,4 +1,4 @@
-# dnnComm: unsupervised deep learning for wirless communication signals with different modulations and SNR's
+# dnnComm: unsupervised deep learning for wireless communication signals with different modulations and SNR's
 
 Detail:
 
