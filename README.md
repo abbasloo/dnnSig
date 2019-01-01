@@ -2,7 +2,7 @@
 
 Detail:
 
-- I/Q trajectory space is embeded to a new dimention (below: color in trajectory space and signature is its histogram) by an autoencoder which considers time-lags for signal evolution in trajectory space (Markov modeling).
+- I/Q trajectory space is embeded to a new dimention (below: encoded color in trajectory space and signature is its histogram) by an autoencoder which considers time-lags for signal evolution in trajectory space (Markov modeling).
 
 ![alt text](https://github.com/abbasloo/dnnComm/blob/master/trajectoryANDsignature.png)
 
