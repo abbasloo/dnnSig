@@ -8,7 +8,7 @@ Detail:
 
 - An experiment using embeded data and SVM has been done to see the AUC curve and if the new dimention introduces strong discriminative feature.
 
-![alt text](https://github.com/abbasloo/dnnComm/blob/master/AUC.png)
+![alt text](https://github.com/abbasloo/dnnComm/blob/master/auc.png)
     
 Dataset:
   
